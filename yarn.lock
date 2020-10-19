@@ -903,10 +903,10 @@
   resolved "https://registry.npm.taobao.org/@types/q/download/@types/q-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha1-aQoUdbhPKohP0HzXl8APXzE1bqg=
 
-"@vant/icons@1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@vant/icons/-/icons-1.2.1.tgz#309fecb97a4989866f045ce676b545c454701c8f"
-  integrity sha512-5ivsKQR4ySbdBW5UPoQDVqO6rdc1um3rvq/0VL+ZSA7Y3MdBQ3E4/NL0hoAY5/sZZeYfIDKEP21gpjUzdeEDQQ==
+"@vant/icons@1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@vant/icons/-/icons-1.3.2.tgz#f0930010e7aaa9b06b03636fe9b5bc6477ea224b"
+  integrity sha512-uP0nUWw0pyMMGt3L9BO5fEacz/Cn7QIea0/gFoC/jPLv9ufvUxjPsV9HSyyUJsqMJ3qlYLAI/SxZDbmMZA814A==
 
 "@vue/babel-helper-vue-jsx-merge-props@^1.0.0":
   version "1.0.0"
@@ -8188,13 +8188,13 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vant@^2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/vant/-/vant-2.8.0.tgz#0e6c89802b7f78d781130db0fec1f964d8adfe98"
-  integrity sha512-/gHOwjeKKwJ/NVl1G9V2ulH1Zbs44Bpc8luKQ/LYJLrqgUfUCQTY0z4NQIbcDtYTS1UaZ+KIyzy3ru4iBcizAQ==
+vant@^2.10.10:
+  version "2.10.10"
+  resolved "https://registry.yarnpkg.com/vant/-/vant-2.10.10.tgz#ffdff78baaa167a41adf71014b05c6239768501f"
+  integrity sha512-B0fCcY+SEfvkPWKEG7bu2Y5RjsUmH02hJzvJWNBZsvttoSDA1PxD1KMl+On++DKfM9xaHdv7ndoAS5yQgeCysA==
   dependencies:
     "@babel/runtime" "7.x"
-    "@vant/icons" "1.2.1"
+    "@vant/icons" "1.3.2"
     "@vue/babel-helper-vue-jsx-merge-props" "^1.0.0"
     vue-lazyload "1.2.3"
 
