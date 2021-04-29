@@ -1,0 +1,32 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: vant
+    versions:
+    - 2.12.10
+    - 2.12.11
+    - 2.12.12
+    - 2.12.13
+    - 2.12.14
+    - 2.12.6
+    - 2.12.7
+    - 2.12.8
+    - 2.12.9
+  - dependency-name: y18n
+    versions:
+    - 4.0.1
+    - 4.0.2
+  - dependency-name: eslint-plugin-vue
+    versions:
+    - 7.5.0
+    - 7.6.0
+    - 7.7.0
+    - 7.8.0
+  - dependency-name: "@vue/cli-plugin-babel"
+    versions:
+    - 4.5.11
